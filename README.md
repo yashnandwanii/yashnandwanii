@@ -1,10 +1,12 @@
-Hi, I’m YASH👋
+Hi, I’m YASH 👋
 
 About Me
 
 I am an app developer passionate about building scalable and user-focused products that create real impact. Currently pursuing B.Tech in Computer Science at VIT, I enjoy solving challenging problems and bringing ideas to life through technology. I strive for clean architecture, intuitive user experiences, and continuous improvement in every project I undertake. Beyond coding, I believe in building solutions that genuinely improve everyday lives, and I am always open to learning and collaborating to create meaningful products.
 
-🛠️ Tech Stack
+<details>
+<summary>🛠️ Tech Stack</summary>
+
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -24,7 +26,12 @@ I am an app developer passionate about building scalable and user-focused produc
 </p>
 
 
-🌐 Connect with Me
+</details>
+
+
+<details>
+<summary>🌐 Connect with Me</summary>
+
 
 <p>
 <a href="mailto:yashnandwani47@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -34,7 +41,33 @@ I am an app developer passionate about building scalable and user-focused produc
 </p>
 
 
-
-⸻
-
 ✨ Feel free to connect for collaboration, internships, open-source contributions, or project discussions!
+
+</details>
+
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashnandwanii&theme=default" alt="GitHub Streak" />
+</p>
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashnandwanii&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yashnandwanii&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+
+<p align="center">
+<img src="https://github-contribution-graph.vercel.app/api?username=yashnandwanii&theme=default" alt="Contribution Graph" />
+</p>
+
+
+</details>
